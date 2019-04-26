@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author usuario
+ * @author María Álvarez Gómez
  */
 public class Entradas {
     
